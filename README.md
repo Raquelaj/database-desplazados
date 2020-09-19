@@ -10,8 +10,10 @@
 - EL ESPECTADOR: https://www.elespectador.com/
 - EL TIEMPO: https://www.eltiempo.com/
 
-## palavras-chave 
+## palavras-chave: 
 - núcleo: desplazado; desplazamiento; migración; migrante; negro; afrodescendiente; indígena; mujeres
-- secundárias: pacífico; caribe; andina; FARC; ELN; AUC; AGC; Fuerzas Militares; Policía; Fuerzas de Seguridad; Chocó; Valle del Cauca; Cauca; Nariño; Antioquia; Caldas; Risalda; Quindío; Tolima; Huila; gobierno; multinacionales
+- região: Pacífico; Caribe; Andina;
+- departamentos:  Chocó; Valle del Cauca; Cauca; Nariño; Antioquia; Caldas; Risalda; Quindío; Tolima; Huila;
+- atores: FARC; ELN; AUC; AGC; Fuerzas Militares; Policía; Fuerzas de Seguridad; gobierno; multinacionales
 
 
