@@ -11,7 +11,7 @@
 - EL TIEMPO: https://www.eltiempo.com/
 
 ## palavras-chave: 
-- núcleo: desplazado; desplazamiento; migración; migrante; negro; afrodescendiente; indígena; pueblos/comunidades originarios/as; mujeres.
+- núcleo: desplazado; desplazamiento; migración; migrante; negro; afrodescendiente; indígena; pueblos/comunidades originarios/as; mujeres; resistencia.
 - região: Pacífico; Caribe; Andina.
 - departamentos:  Chocó; Valle del Cauca; Cauca; Nariño; Antioquia; Caldas; Risalda; Quindío; Tolima; Huila.
 - atores: FARC; ELN; AUC; AGC; Fuerzas Militares; Policía; Fuerzas de Seguridad; gobierno; multinacionales.
