@@ -9,9 +9,10 @@
 - ACNUR: https://www.acnur.org/colombia.html
 - EL ESPECTADOR: https://www.elespectador.com/
 - EL TIEMPO: https://www.eltiempo.com/
+- Governo: https://www.gov.co/sobre-nosotros; https://idm.presidencia.gov.co/presidencia;
 
 ## palavras-chave: 
-- núcleo: desplazado; desplazamiento; migración; migrante; negro; afrodescendiente; indígena; pueblos/comunidades originarios/as; mujeres; resistencia.
+- núcleo: desplazado; desplazamiento; migración; migrante; negro; afrodescendiente; indígena; pueblos/comunidades originarios/as; mujeres; resistencia; leyes.
 - região: Pacífico; Caribe; Andina.
 - departamentos:  Chocó; Valle del Cauca; Cauca; Nariño; Antioquia; Caldas; Risalda; Quindío; Tolima; Huila.
 - atores: FARC-EP; ELN; AUC; AGC; Fuerzas Armadas; Policía; Fuerzas de Seguridad; gobierno; empresas; multinacionales.
