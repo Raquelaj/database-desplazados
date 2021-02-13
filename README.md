@@ -39,7 +39,7 @@ Ademais, cabe ressaltar que os dados coletados através do text mining servirão
   - negro; afrodescendiente; 
   - indígena; pueblos/comunidades originarios/as; 
   - resistencia; 
-  - leyes;
+  - leyes; políticas de asistencia; políticas de reparación;
 - região: 
   - Pacífico; 
   - Caribe;
@@ -47,11 +47,11 @@ Ademais, cabe ressaltar que os dados coletados através do text mining servirão
 - departamentos:  
   - Chocó; Valle del Cauca; Cauca; Nariño; Antioquia; Caldas; Risalda; Quindío; Tolima; Huila.
 - atores: 
-  - FARC-EP; 
-  - ELN; 
-  - AUC; 
-  - AGC; 
+  - FARC-EP; Fuerzas Armadas Revolucionárias de Colombia; 
+  - ELN; Ejército de Libertación Nacional;
+  - AUC; Autodefensas Unidas de Colombia;
+  - AGC; Autodefensas Gaitanistas de Colombia; Clan del Golfo;
   - Fuerzas Armadas; Policía; Fuerzas de Seguridad; gobierno; 
-  - empresas; multinacionales.
+  - empresas; multinacionales de infraestrutura; multinacionales de minería
 
 
