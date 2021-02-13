@@ -13,6 +13,8 @@
 # Governo
 - https://www.gov.co/sobre-nosotros
 - https://idm.presidencia.gov.co/presidencia;
+  - baixar as normativas, leis e decretos
+  - classificar quanto ao conteúdo
 
 ## palavras-chave: 
 - núcleo: desplazado; desplazamiento; migración; migrante; negro; afrodescendiente; indígena; pueblos/comunidades originarios/as; mujeres; resistencia; leyes.
