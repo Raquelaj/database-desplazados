@@ -1,3 +1,19 @@
+O objetivo do text mining é coletar informações sobre as práticas de produção, governo/regulação/controle e resistência das mulheres indígenas e afrodescendentes que foram internamente deslocadas na macrorregião pacífico-andina-caribenha colombiana; o que corresponde aos departamentos de Chocó; Valle del Cauca; Cauca; Nariño; Antioquia; Caldas; Risalda; Quindío; Tolima; Huila. 
+
+Para isso, foram selecionados os seguintes atores:
+- Atores na produção: as FARC-EP; o ELN; a AUC; a AGC; as Forças de Segurança (Polícia e/ou Forças Armadas) e empresa multinacionais de mineração e infra-estrutura. 
+- Atores no governo/regulação/controle: UARIV; CODHES; ACNUR. 
+- Atores na resistência: PCN; ONIC; RUTA PACÍFICA e AFRODES. 
+
+Como recorte temporal, selecionamos os governos de Andrés Pastrana, Álvaro Uribe, Juan Manuel Santos e Iván Duque, correspondendo ao período entre agosto de 1998 e agosto de 2021.   
+
+Com a coleta e análise dos dados, pretendemos evidenciar como há interesses, dinâmicas e/ou políticas de origem não apenas doméstica, mas também internacional, envolvidos na emergência, permanência, regulação e resistência das deslocadas internas colombianas, fomentando um outro entendimento acerca do fenômeno de deslocamento interno forçado, contribuindo para o processo de reconstrução da memória histórica do país e promovendo uma maior visibilidade para a questão no âmbito internacional, o que potencialmente pode resultar em políticas públicas mais representativas, ou assertivas, nos planos doméstico e internacional e orientadas ao benefício dessas mulheres.
+
+Ademais, cabe ressaltar que os dados coletados através do text mining servirão de base e complemento para as entrevistas que serão conduzidas na Colômbia durante o trabalho de campo. 
+
+
+
+
 # fontes:
 - PCN: https://renacientes.net/
 - AFRODES: http://www.afrodescolombia.org/
