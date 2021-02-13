@@ -24,8 +24,15 @@
   - indígena; pueblos/comunidades originarios/as; 
   - resistencia; 
   - leyes;
-- região: Pacífico; Caribe; Andina.
-- departamentos:  Chocó; Valle del Cauca; Cauca; Nariño; Antioquia; Caldas; Risalda; Quindío; Tolima; Huila.
-- atores: FARC-EP; ELN; AUC; AGC; Fuerzas Armadas; Policía; Fuerzas de Seguridad; gobierno; empresas; multinacionales.
+- região: 
+  - Pacífico; 
+  - Caribe;
+  - Andina.
+- departamentos:  
+  - Chocó; Valle del Cauca; Cauca; Nariño; Antioquia; Caldas; Risalda; Quindío; Tolima; Huila.
+- atores: 
+  - FARC-EP; ELN; AUC; AGC; 
+  - Fuerzas Armadas; Policía; Fuerzas de Seguridad; gobierno; 
+  - empresas; multinacionales.
 
 
