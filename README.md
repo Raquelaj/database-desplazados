@@ -31,7 +31,10 @@
 - departamentos:  
   - Chocó; Valle del Cauca; Cauca; Nariño; Antioquia; Caldas; Risalda; Quindío; Tolima; Huila.
 - atores: 
-  - FARC-EP; ELN; AUC; AGC; 
+  - FARC-EP; 
+  - ELN; 
+  - AUC; 
+  - AGC; 
   - Fuerzas Armadas; Policía; Fuerzas de Seguridad; gobierno; 
   - empresas; multinacionales.
 
