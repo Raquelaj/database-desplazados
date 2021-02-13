@@ -19,9 +19,9 @@
 ## palavras-chave: 
 - núcleo: 
   - desplazado; desplazamiento; migración; migrante; 
+  - mujeres; 
   - negro; afrodescendiente; 
   - indígena; pueblos/comunidades originarios/as; 
-  - mujeres; 
   - resistencia; 
   - leyes;
 - região: Pacífico; Caribe; Andina.
