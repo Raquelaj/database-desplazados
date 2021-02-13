@@ -18,12 +18,12 @@
 
 ## palavras-chave: 
 - núcleo: 
-  - desplazado; desplazamiento; migración; migrante; 
-  - mujeres; 
-  - negro; afrodescendiente; 
-  - indígena; pueblos/comunidades originarios/as; 
-  - resistencia; 
-  - leyes;
+  - 6pts. desplazado; desplazamiento; migración; migrante; 
+  - 5pts. mujeres; 
+  - 4pts. negro; afrodescendiente; 
+  - 4pts. indígena; pueblos/comunidades originarios/as; 
+  - 2pts. resistencia; 
+  - 2pts. leyes;
 - região: Pacífico; Caribe; Andina.
 - departamentos:  Chocó; Valle del Cauca; Cauca; Nariño; Antioquia; Caldas; Risalda; Quindío; Tolima; Huila.
 - atores: FARC-EP; ELN; AUC; AGC; Fuerzas Armadas; Policía; Fuerzas de Seguridad; gobierno; empresas; multinacionales.
