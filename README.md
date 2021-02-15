@@ -15,7 +15,7 @@ Ademais, cabe ressaltar que os dados coletados através do text mining servirão
 
 
 # fontes:
-- [ ] PCN: https://renacientes.net/
+- [x] PCN: https://renacientes.net/
 - [ ] AFRODES: http://www.afrodescolombia.org/
 - [ ] ONIC: https://www.onic.org.co/
 - [ ] RUTA: https://rutapacifica.org.co/
