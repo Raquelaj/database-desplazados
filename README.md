@@ -27,8 +27,8 @@ Ademais, cabe ressaltar que os dados coletados através do text mining servirão
 - [ ] EL TIEMPO: https://www.eltiempo.com/
 
 # Governo
-- [ ] https://www.gov.co/sobre-nosotros
-- [ ] https://idm.presidencia.gov.co/presidencia;
+- [ ] Portal Único del Estado colombiano https://www.gov.co/sobre-nosotros
+- [ ] Portal de la Presidencia https://idm.presidencia.gov.co/presidencia;
   - baixar as normativas, leis e decretos
   - classificar quanto ao conteúdo
 
